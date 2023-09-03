@@ -1,0 +1,18 @@
+{
+    "id": "",
+    "isDeleted": 0,
+    "name": "",
+    "certificatesType": "",
+    "certificatesTypeString": "",
+    "certificatesNo": "",
+    "sex": 1,
+    "birthdate": "",
+    "phone": "",
+    "isMarry": 0,
+    "isInsure": 1,
+    "address": "",
+    "contactsName": "",
+    "contactsCertificatesType": "",
+    "contactsCertificatesNo": "",
+    "contactsPhone": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "64eaebadcd9e577ca957a81d",
+  "createTime": "2023-07-31 11:43:01",
+  "updateTime": "2023-07-31 11:43:01",
+  "isDeleted": 0,
+  "param": {
+    "dayOfWeek": "周一",
+    "depname": "多发性硬化专科门诊",
+    "hosname": "北京大学第一医院"
+  },
+  "hoscode": "1000_2",
+  "depcode": "200040878_2",
+  "title": "副主任医师",
+  "docname": "邵迎红",
+  "skill": "内分泌与代谢性疾病。",
+  "workDate": "2023-09-04",
+  "workTime": 1,
+  "reservedNumber": 27,
+  "availableNumber": 10,
+  "amount": 100,
+  "status": 1,
+  "hosScheduleId": "1685858577618763777"
+}

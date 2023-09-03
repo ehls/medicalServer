@@ -1,0 +1,1514 @@
+[
+  {
+    "depcode": "a4e171f4cf9b6816acdfb9ae62c414d7",
+    "depname": "专科",
+    "children": [
+      {
+        "depcode": "200040878_1",
+        "depname": "多发性硬化专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200040182_1178",
+        "depname": "运动障碍病专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048482_1179",
+        "depname": "特需病理科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048483_1180",
+        "depname": "病理科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004057_1181",
+        "depname": "麻醉科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004124_1182",
+        "depname": "放疗科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004125_1183",
+        "depname": "放疗科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004126_1184",
+        "depname": "特需放疗科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004117_1185",
+        "depname": "心理医学科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004118_1186",
+        "depname": "特需心理医学科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200004123_1187",
+        "depname": "介入治疗门诊(放射科)",
+        "children": null
+      },
+      {
+        "depcode": "200004130_1188",
+        "depname": "超声介入门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004129_1189",
+        "depname": "物理医学康复科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004127_1190",
+        "depname": "物理医学康复科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004120_1191",
+        "depname": "肠外肠内营养科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004122_1192",
+        "depname": "特需肠外肠内营养科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004131_1193",
+        "depname": "核医学科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004132_1194",
+        "depname": "特需核医学门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004055_1195",
+        "depname": "麻醉科",
+        "children": null
+      },
+      {
+        "depcode": "200004056_1196",
+        "depname": "麻醉科疼痛门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "17be7b5423b1782612f4a50608246fb4",
+    "depname": "妇产科",
+    "children": [
+      {
+        "depcode": "200046682_1120",
+        "depname": "特需综合妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200046684_1121",
+        "depname": "特需妇科内分泌门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048276_1122",
+        "depname": "妇泌中心(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200048413_1123",
+        "depname": "特需普通妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048441_1124",
+        "depname": "特需肿瘤妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048447_1125",
+        "depname": "特需妇科计划生育门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048487_1126",
+        "depname": "特需产科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048521_1127",
+        "depname": "妇科计划生育门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048522_1128",
+        "depname": "综合妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048523_1129",
+        "depname": "妇科肿瘤门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004078_1130",
+        "depname": "妇产科辅助生育中心",
+        "children": null
+      },
+      {
+        "depcode": "200004073_1131",
+        "depname": "妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004074_1132",
+        "depname": "妇科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004075_1133",
+        "depname": "特需妇科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004076_1134",
+        "depname": "特需妇科门诊(西院)1",
+        "children": null
+      },
+      {
+        "depcode": "200004080_1135",
+        "depname": "妇科内分泌门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004081_1136",
+        "depname": "特需妇科内分泌门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004082_1137",
+        "depname": "特需妇科内分泌门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004077_1138",
+        "depname": "产科门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "1e452d84823e025229c72c23d100a464",
+    "depname": "国际医疗部",
+    "children": [
+      {
+        "depcode": "200048271_1217",
+        "depname": "国际医疗(儿科)",
+        "children": null
+      },
+      {
+        "depcode": "200048272_1218",
+        "depname": "国际医疗(预防接种)",
+        "children": null
+      },
+      {
+        "depcode": "200048273_1219",
+        "depname": "国际医疗(神经科)",
+        "children": null
+      },
+      {
+        "depcode": "200048274_1220",
+        "depname": "国际医疗(胸外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048278_1221",
+        "depname": "国际医疗(内分泌科)",
+        "children": null
+      },
+      {
+        "depcode": "200048279_1222",
+        "depname": "基本外科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048280_1223",
+        "depname": "内分泌科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048281_1224",
+        "depname": "国际医疗(消化内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048282_1225",
+        "depname": "国际医疗(普通内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048283_1226",
+        "depname": "国际医疗(皮肤科)",
+        "children": null
+      },
+      {
+        "depcode": "200048286_1227",
+        "depname": "消化内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048288_1228",
+        "depname": "国际医疗(感染内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048289_1229",
+        "depname": "国际医疗(变态反应科)",
+        "children": null
+      },
+      {
+        "depcode": "200048290_1230",
+        "depname": "国际医疗(免疫内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048293_1231",
+        "depname": "国际医疗(中医科)",
+        "children": null
+      },
+      {
+        "depcode": "200048294_1232",
+        "depname": "国际医疗(呼吸内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048297_1233",
+        "depname": "国际医疗(美容外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048298_1234",
+        "depname": "国际医疗(产科)",
+        "children": null
+      },
+      {
+        "depcode": "200048299_1235",
+        "depname": "医学美容中心外科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048300_1236",
+        "depname": "国际医疗(血管外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048301_1237",
+        "depname": "核医学科(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048304_1238",
+        "depname": "国际医疗(妇科内分泌)",
+        "children": null
+      },
+      {
+        "depcode": "200048308_1239",
+        "depname": "变态（过敏）反应科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048309_1240",
+        "depname": "免疫内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048310_1241",
+        "depname": "国际医疗(骨科)",
+        "children": null
+      },
+      {
+        "depcode": "200048311_1242",
+        "depname": "口腔科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048312_1243",
+        "depname": "国际医疗(泌尿外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048313_1244",
+        "depname": "国际医疗(核医学科)",
+        "children": null
+      },
+      {
+        "depcode": "200048314_1245",
+        "depname": "内分泌与生殖妇科中心门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048315_1246",
+        "depname": "国际医疗(血液科)",
+        "children": null
+      },
+      {
+        "depcode": "200048316_1247",
+        "depname": "国际医疗(美容皮肤科)",
+        "children": null
+      },
+      {
+        "depcode": "200048317_1248",
+        "depname": "国际医疗(耳鼻喉科)",
+        "children": null
+      },
+      {
+        "depcode": "200048318_1249",
+        "depname": "国际医疗(神经外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048319_1250",
+        "depname": "肿瘤内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048320_1251",
+        "depname": "耳鼻喉科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048326_1252",
+        "depname": "国际医疗(针灸按摩室)",
+        "children": null
+      },
+      {
+        "depcode": "200048327_1253",
+        "depname": "国际医疗(心内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048328_1254",
+        "depname": "国际医疗(口腔科)",
+        "children": null
+      },
+      {
+        "depcode": "200048329_1255",
+        "depname": "国际医疗(麻醉科)",
+        "children": null
+      },
+      {
+        "depcode": "200048330_1256",
+        "depname": "神经科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048332_1257",
+        "depname": "呼吸内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048333_1258",
+        "depname": "国际医疗(物理医学康复科)",
+        "children": null
+      },
+      {
+        "depcode": "200048334_1259",
+        "depname": "心内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048335_1260",
+        "depname": "肾内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048346_1261",
+        "depname": "国际医疗(基本外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048347_1262",
+        "depname": "乳腺外科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048348_1263",
+        "depname": "国际医疗(肾内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048349_1264",
+        "depname": "皮肤科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048350_1265",
+        "depname": "国际医疗(眼科)",
+        "children": null
+      },
+      {
+        "depcode": "200048352_1266",
+        "depname": "国际医疗(肝脏外科)",
+        "children": null
+      },
+      {
+        "depcode": "200048353_1267",
+        "depname": "眼科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048355_1268",
+        "depname": "麻醉科(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048356_1269",
+        "depname": "国际医疗(肿瘤内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048366_1270",
+        "depname": "国际医疗(营养科)",
+        "children": null
+      },
+      {
+        "depcode": "200048368_1271",
+        "depname": "国际医疗(放射治疗科)",
+        "children": null
+      },
+      {
+        "depcode": "200048379_1272",
+        "depname": "国际医疗部特约门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048465_1273",
+        "depname": "物理医学康复科(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048467_1274",
+        "depname": "泌尿外科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048470_1275",
+        "depname": "国际医疗(肠外肠内营养科)",
+        "children": null
+      },
+      {
+        "depcode": "200048485_1276",
+        "depname": "国际医疗(老年医学科)",
+        "children": null
+      },
+      {
+        "depcode": "200048486_1277",
+        "depname": "普通内科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048513_1278",
+        "depname": "医学美容中心门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048524_1279",
+        "depname": "国际医疗(妇科肿瘤)",
+        "children": null
+      },
+      {
+        "depcode": "200048525_1280",
+        "depname": "国际医疗(综合妇科)",
+        "children": null
+      },
+      {
+        "depcode": "200048526_1281",
+        "depname": "国际医疗(妇科计划生育)",
+        "children": null
+      },
+      {
+        "depcode": "200048536_1282",
+        "depname": "骨科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048559_1283",
+        "depname": "国际医疗(放射科)",
+        "children": null
+      },
+      {
+        "depcode": "200048585_1284",
+        "depname": "老年医学门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200048644_1285",
+        "depname": "儿科门诊(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200004114_1286",
+        "depname": "国际医疗(妇科)",
+        "children": null
+      },
+      {
+        "depcode": "200004115_1287",
+        "depname": "国际医疗(心理医学科)",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "7dafa91626a45481feefb3d1a84c7984",
+    "depname": "中医科",
+    "children": [
+      {
+        "depcode": "200041040_1167",
+        "depname": "特需中医科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048480_1168",
+        "depname": "卫干门诊(中医科)",
+        "children": null
+      },
+      {
+        "depcode": "200004112_1169",
+        "depname": "中医科针灸室(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004110_1170",
+        "depname": "中医科针灸室",
+        "children": null
+      },
+      {
+        "depcode": "200004109_1171",
+        "depname": "中医科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004111_1172",
+        "depname": "中医科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004113_1173",
+        "depname": "特需中医科门诊1",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "2feb85b952a4dcd6dbf832100f6ef595",
+    "depname": "五官",
+    "children": [
+      {
+        "depcode": "200048325_1143",
+        "depname": "特需皮肤科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048377_1144",
+        "depname": "皮科激光中心",
+        "children": null
+      },
+      {
+        "depcode": "200048468_1145",
+        "depname": "普通皮科复诊",
+        "children": null
+      },
+      {
+        "depcode": "200048529_1146",
+        "depname": "特需口腔科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004107_1147",
+        "depname": "皮肤科白癜风副教授门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004108_1148",
+        "depname": "皮肤科普通皮科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004119_1149",
+        "depname": "美容皮肤科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004086_1150",
+        "depname": "眼科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004087_1151",
+        "depname": "眼科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004088_1152",
+        "depname": "特需眼科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004089_1153",
+        "depname": "眼科糖尿病视网膜病专科",
+        "children": null
+      },
+      {
+        "depcode": "200004096_1154",
+        "depname": "口腔科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004097_1155",
+        "depname": "口腔科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004101_1156",
+        "depname": "口腔科住院医门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004098_1157",
+        "depname": "口腔科洁牙门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004099_1158",
+        "depname": "特需口腔外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004100_1159",
+        "depname": "口腔科特需门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004090_1160",
+        "depname": "耳鼻喉科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004091_1161",
+        "depname": "耳鼻喉科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004093_1162",
+        "depname": "特需耳鼻喉科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004102_1163",
+        "depname": "皮科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004103_1164",
+        "depname": "皮科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004104_1165",
+        "depname": "皮肤科性病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004106_1166",
+        "depname": "特需皮肤科门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "44f162029abb45f9ff0a5f743da0650d",
+    "depname": "全部科室",
+    "children": [
+      {
+        "depcode": "200050923_10",
+        "depname": "门诊部核酸检测门诊(东院)",
+        "children": null
+      },
+      {
+        "depcode": "200050924_11",
+        "depname": "国际医疗部门诊",
+        "children": null
+      },
+      {
+        "depcode": "200050931_12",
+        "depname": "临床营养科(西院国际医疗)",
+        "children": null
+      },
+      {
+        "depcode": "200050964_13",
+        "depname": "内分泌科互联网诊疗",
+        "children": null
+      },
+      {
+        "depcode": "200051188_14",
+        "depname": "心内科互联网诊疗",
+        "children": null
+      },
+      {
+        "depcode": "200051469_15",
+        "depname": "特需心理医学科门诊2",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "cbc348c817edeffab9599ad12205fa78",
+    "depname": "外科",
+    "children": [
+      {
+        "depcode": "200045976_171",
+        "depname": "特需血管外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200040164_172",
+        "depname": "特需胸外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048287_173",
+        "depname": "乳腺外科乳癌化疗门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200048331_174",
+        "depname": "乳腺外科乳癌随访门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200048412_175",
+        "depname": "特需整形外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048490_176",
+        "depname": "泌尿外科专项诊疗门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048586_177",
+        "depname": "胸外科化疗专病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004041_178",
+        "depname": "特需神经外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004051_179",
+        "depname": "心外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004052_180",
+        "depname": "心外科成人门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004053_181",
+        "depname": "特需心外科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200004054_182",
+        "depname": "特需心外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004049_183",
+        "depname": "特需泌尿外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004072_184",
+        "depname": "特需肝脏外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004027_185",
+        "depname": "特需基本外科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004031_186",
+        "depname": "特需骨科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004046_187",
+        "depname": "肾积水专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004034_188",
+        "depname": "神经外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004035_189",
+        "depname": "神经外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004040_190",
+        "depname": "特需神经外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004059_191",
+        "depname": "血管外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004060_192",
+        "depname": "血管外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004061_193",
+        "depname": "动脉疾病专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004062_194",
+        "depname": "特需血管外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004063_195",
+        "depname": "特需血管外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004032_196",
+        "depname": "胸外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004033_197",
+        "depname": "特需胸外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004066_198",
+        "depname": "特需整形外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004067_199",
+        "depname": "乳腺外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004068_1100",
+        "depname": "乳腺外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004069_1101",
+        "depname": "特需乳腺外科门诊(西院)1",
+        "children": null
+      },
+      {
+        "depcode": "200004042_1102",
+        "depname": "泌尿外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004043_1103",
+        "depname": "泌尿外科男科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004044_1104",
+        "depname": "泌尿外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004045_1105",
+        "depname": "泌尿外科男科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004047_1106",
+        "depname": "特需泌尿外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004070_1107",
+        "depname": "肝脏外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004071_1108",
+        "depname": "特需肝外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004022_1109",
+        "depname": "外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004023_1110",
+        "depname": "基本外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004025_1111",
+        "depname": "基本外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004026_1112",
+        "depname": "特需基本外科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200004028_1113",
+        "depname": "骨科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004029_1114",
+        "depname": "骨科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004030_1115",
+        "depname": "特需骨科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004064_1116",
+        "depname": "整形美容外科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004116_1117",
+        "depname": "急诊科",
+        "children": null
+      },
+      {
+        "depcode": "200004065_1118",
+        "depname": "整形美容外科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200039788_1119",
+        "depname": "泌尿外科肾癌靶向治疗专病门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "0551a547cc19d3d09f2e57bd2931b7d0",
+    "depname": "其它",
+    "children": [
+      {
+        "depcode": "200040142_1197",
+        "depname": "肾内科IGA肾病专病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048338_1198",
+        "depname": "检验科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048491_1199",
+        "depname": "门诊部疑难病会诊中心(东院)",
+        "children": null
+      },
+      {
+        "depcode": "200048571_1200",
+        "depname": "加速器治疗室(放疗科)(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200048575_1201",
+        "depname": "生殖中心门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004013_1202",
+        "depname": "帕金森专病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004037_1203",
+        "depname": "癫痫门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004021_1204",
+        "depname": "老年医学科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004038_1205",
+        "depname": "神经外科垂体专病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004039_1206",
+        "depname": "神经外科脊髓疾病专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004048_1207",
+        "depname": "泌尿外科泌尿结石门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004050_1208",
+        "depname": "泌尿外科膀胱癌专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004024_1209",
+        "depname": "基本外科肠造口门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004092_1210",
+        "depname": "耳聋基因筛查遗传门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004128_1211",
+        "depname": "特需康复理疗门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004036_1212",
+        "depname": "疼痛门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004058_1213",
+        "depname": "特需麻醉科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004135_1214",
+        "depname": "针灸按摩室(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004121_1215",
+        "depname": "肠外肠内营养科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200041160_1216",
+        "depname": "特需放射科门诊1",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "e7391935e2070acf94e87b5b6f104f68",
+    "depname": "变态反应科",
+    "children": [
+      {
+        "depcode": "200004094_1141",
+        "depname": "变态反应科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004095_1142",
+        "depname": "特需变态反应科门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "4dcb42d3a6ca39589f20bcd160903ae9",
+    "depname": "营养科",
+    "children": [
+      {
+        "depcode": "200048262_1174",
+        "depname": "临床营养科西院门诊",
+        "children": null
+      },
+      {
+        "depcode": "200047302_1175",
+        "depname": "特需营养科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200004133_1176",
+        "depname": "营养科咨询门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "2543ade3aecd3f5a3e2329d068c1d367",
+    "depname": "儿科",
+    "children": [
+      {
+        "depcode": "200004084_1139",
+        "depname": "儿科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004085_1140",
+        "depname": "特需儿科门诊",
+        "children": null
+      }
+    ]
+  },
+  {
+    "depcode": "1c87253ca8aa8fc966a2443eeaac0fc1",
+    "depname": "内科",
+    "children": [
+      {
+        "depcode": "200041542_16",
+        "depname": "特需心内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200042374_17",
+        "depname": "特需消化内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200040886_18",
+        "depname": "特需内分泌科门诊(西院)1",
+        "children": null
+      },
+      {
+        "depcode": "200041246_19",
+        "depname": "特需呼吸内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200041038_110",
+        "depname": "特需肾内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200041244_111",
+        "depname": "特需血液内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200044248_112",
+        "depname": "特需老年医学科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200040166_113",
+        "depname": "特需普通内科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200041666_114",
+        "depname": "内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200043118_115",
+        "depname": "普通内科全科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200045974_116",
+        "depname": "普通内科疑难病症门诊",
+        "children": null
+      },
+      {
+        "depcode": "200048285_117",
+        "depname": "特需肿瘤内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048369_118",
+        "depname": "特需普通内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048378_119",
+        "depname": "卫干门诊(内科)",
+        "children": null
+      },
+      {
+        "depcode": "200048380_120",
+        "depname": "特需免疫内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200048440_121",
+        "depname": "特需感染内科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004002_122",
+        "depname": "内分泌科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004004_123",
+        "depname": "特需内分泌科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200004020_124",
+        "depname": "特需普通内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004014_125",
+        "depname": "肿瘤内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003975_126",
+        "depname": "心内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003976_127",
+        "depname": "心内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003977_128",
+        "depname": "心内科高血压专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003978_129",
+        "depname": "特需心内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004005_130",
+        "depname": "神经科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004006_131",
+        "depname": "神经科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004007_132",
+        "depname": "神经内科癫痫门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004010_133",
+        "depname": "特需神经科门诊2",
+        "children": null
+      },
+      {
+        "depcode": "200003997_134",
+        "depname": "消化内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003998_135",
+        "depname": "消化内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003999_136",
+        "depname": "早期胃癌专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004000_137",
+        "depname": "特需消化内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004001_138",
+        "depname": "内分泌科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004003_139",
+        "depname": "特需内分泌科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003989_140",
+        "depname": "免疫内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003990_141",
+        "depname": "免疫内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003991_142",
+        "depname": "特需免疫内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003992_143",
+        "depname": "特需免疫内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003993_144",
+        "depname": "呼吸内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003994_145",
+        "depname": "呼吸内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003995_146",
+        "depname": "戒烟门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003996_147",
+        "depname": "特需呼吸内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003979_148",
+        "depname": "肾内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003980_149",
+        "depname": "肾内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003981_150",
+        "depname": "特需肾内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003982_151",
+        "depname": "血液科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003983_152",
+        "depname": "血友病门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200003984_153",
+        "depname": "特需血液内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003985_154",
+        "depname": "感染内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003986_155",
+        "depname": "感染内科热病门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003987_156",
+        "depname": "感染内科免疫功能低下门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003988_157",
+        "depname": "特需感染内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003973_158",
+        "depname": "老年综合门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003974_159",
+        "depname": "特需老年综合门诊",
+        "children": null
+      },
+      {
+        "depcode": "200003972_160",
+        "depname": "内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004018_161",
+        "depname": "普通内科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004019_162",
+        "depname": "普通内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004015_163",
+        "depname": "肿瘤内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004016_164",
+        "depname": "特需肿瘤内科门诊1",
+        "children": null
+      },
+      {
+        "depcode": "200004017_165",
+        "depname": "特需肿瘤内科门诊(西院)",
+        "children": null
+      },
+      {
+        "depcode": "200004012_166",
+        "depname": "重症肌无力专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004008_167",
+        "depname": "头疼专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004009_168",
+        "depname": "脑血管病专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004011_169",
+        "depname": "痴呆与脑白质病专科门诊",
+        "children": null
+      },
+      {
+        "depcode": "200004134_170",
+        "depname": "肝炎门诊",
+        "children": null
+      }
+    ]
+  }
+]

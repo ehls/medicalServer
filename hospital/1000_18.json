@@ -1,0 +1,34 @@
+{
+  "bookingRule": {
+    "cycle": 10,
+    "releaseTime": "8:45",
+    "stopTime": "12:30",
+    "quitDay": -1,
+    "quitTime": "15:30",
+    "rule": [
+      "西院区预约号取号地点：西院区门诊楼一层大厅挂号窗口取号"
+    ]
+  },
+  "hospital": {
+    "id": "64c3853bdca6c13588a12e23",
+    "createTime": "2023-07-28 17:07:07",
+    "updateTime": "2023-08-22 19:52:18",
+    "isDeleted": 0,
+    "param": {
+      "hostypeString": "三级甲等",
+      "fullAddress": "北京市市辖区东城区"
+    },
+    "hoscode": "1000_18",
+    "hosname": "首都医科大学附属北京同仁医院",
+    "hostype": "1",
+    "provinceCode": "110000",
+    "cityCode": "110100",
+    "districtCode": "110101",
+    "address": "",
+    "logoData": "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",
+    "intro": "首都医科大学附属北京同仁医院是集医疗、教学、科研于一体的大型三级甲等综合医院，是国家卫生计生委指定的全国疑难重症诊治指导中心，也是最早承担高干保健和外宾医疗任务的医院之一，以学科齐全、技术力量雄厚、特色专科突出、多学科综合优势强大享誉海内外。在2010、2011、2012、2013、2014年复旦大学医院管理研究所公布的“中国最佳医院排行榜”中连续五年名列榜首。\n\n医院建成于1921年，由洛克菲勒基金会创办。建院之初，就志在“建成亚洲最好的医学中心”。90余年来，医院形成了“严谨、求精、勤奋、奉献”的医院精神和兼容并蓄的特色文化风格，创立了“三基”、“三严”的现代医学教育理念，形成了以“教授、病案、图书馆”著称的医院“三宝”，培养造就了张孝骞、林巧稚等一代医学大师和多位中国现代医学的领军人物，并向全国输送了大批的医学管理人才，创建了当今知名的10余家大型综合及专科医院。2011年在总结90年发展经验的基础上，创新性提出了“待病人如亲人，提高病人满意度；待同事如家人，提高员工幸福感”新办院理念。\n\n目前，医院共有2个院区、总建筑面积53万平方米，在职职工4000余名、两院院士5人、临床和医技科室53个、国家级重点学科20个、国家临床重点专科29个、博士点16个、硕士点29个、国家级继续医学教育基地6个、二级学科住院医师培养基地18个、三级学科专科医师培养基地15个。开放住院床位2000余张，单日最高门诊量约1.5万人次、年出院病人约8万余人次。被评为“全国文明单位”、“全国创先争优先进基层党组织”、“全国卫生系统先进集体”、“首都卫生系统文明单位”、“最受欢迎三甲医院”，荣获全国五一劳动奖章。同时，医院还承担着支援老少边穷地区、国家重要活动和突发事件主力医疗队的重任，在2008年北京奥运工作中荣获“特别贡献奖”。\n\n90多年来，以执着的医志、高尚的医德、精湛的医术和严谨的学风书写了辉煌的历史，今天的医院人正为打造“国际知名、国内一流”医院的目标而继续努力。",
+    "route": "\n\n顺12、14、18、19、28、31、34、38、39、40路到中医院；顺2、11、15、16、17、20、21、22、23、24、25、26、27、29、32、33、36、37、41、43、45路、945到国泰下车，向南行300米即到\n",
+    "status": 1,
+    "bookingRule": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "bookingScheduleList": [
+    {
+      "workDate": "2023-08-28",
+      "workDateMd": "08月28日",
+      "dayOfWeek": "周一",
+      "docCount": 3,
+      "reservedNumber": 94,
+      "availableNumber": 59,
+      "status": -1
+    },
+    {
+      "workDate": "2023-08-29",
+      "workDateMd": "08月29日",
+      "dayOfWeek": "周二",
+      "docCount": 2,
+      "reservedNumber": 370,
+      "availableNumber": 259,
+      "status": 0
+    },
+    {
+      "workDate": "2023-08-30",
+      "workDateMd": "08月30日",
+      "dayOfWeek": "周三",
+      "docCount": 0,
+      "reservedNumber": null,
+      "availableNumber": -1,
+      "status": 0
+    },
+    {
+      "workDate": "2023-08-31",
+      "workDateMd": "08月31日",
+      "dayOfWeek": "周四",
+      "docCount": 0,
+      "reservedNumber": null,
+      "availableNumber": -1,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-01",
+      "workDateMd": "09月01日",
+      "dayOfWeek": "周五",
+      "docCount": 6,
+      "reservedNumber": 1084,
+      "availableNumber": 939,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-02",
+      "workDateMd": "09月02日",
+      "dayOfWeek": "周六",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 617,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-03",
+      "workDateMd": "09月03日",
+      "dayOfWeek": "周日",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 505,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-04",
+      "workDateMd": "09月04日",
+      "dayOfWeek": "周一",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 505,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-05",
+      "workDateMd": "09月05日",
+      "dayOfWeek": "周二",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 505,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-06",
+      "workDateMd": "09月06日",
+      "dayOfWeek": "周三",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 505,
+      "status": 0
+    },
+    {
+      "workDate": "2023-09-07",
+      "workDateMd": "09月07日",
+      "dayOfWeek": "周四",
+      "docCount": 6,
+      "reservedNumber": 794,
+      "availableNumber": 505,
+      "status": 0
+    }
+  ],
+  "baseMap": {
+    "releaseTime": "08:00",
+    "bigname": "专科",
+    "stopTime": "12:30",
+    "depname": "多发性硬化专科门诊",
+    "hosname": "航天中心医院"
+  }
+}
